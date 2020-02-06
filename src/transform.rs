@@ -1,6 +1,6 @@
 //! Dedicated transformation types as the combination of primitives.
 //! 
-//! Note that you may want to us these types over the corresponding type of
+//! Note that you may want to use these types over the corresponding type of
 //! homogeneous transformation matrix because they are faster in most operations,
 //! especially composition and inverse.
 use crate::*;
